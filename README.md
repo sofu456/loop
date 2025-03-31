@@ -8,3 +8,7 @@ you can do
 > loop git clone *.git   
 
 util the git clone success, the command will go on.
+
+-------
+
+you can put the exec file into the envirment path, then you can call loop any time.
